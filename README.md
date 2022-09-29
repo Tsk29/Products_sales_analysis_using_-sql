@@ -1,4 +1,4 @@
-# Products_sales_analysis_using_-sql
+# Products_sales_analysis_using_sql
 This project is implemented using postre sql
 
 About dataset :- 
