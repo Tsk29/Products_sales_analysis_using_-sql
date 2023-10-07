@@ -8,7 +8,6 @@ This is a Retail Transactions SQL Project. This database contains 1 tables retai
 Retail table has 9000 rows.
 
 
-This project is done by N.MONEESH.	
 
 
 It has following columns:
